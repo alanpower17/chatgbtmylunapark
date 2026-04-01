@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/mylunapark/"
+  base: "https://alanpower17.github.io/chatgbtmylunapark/"
 })
