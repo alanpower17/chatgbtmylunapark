@@ -2,7 +2,7 @@
   "name": "mylunapark",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://TUOUSERNAME.github.io/mylunapark",
+  "homepage": "https://alanpower17.github.io/chatgbtmylunapark/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
